@@ -1,0 +1,3 @@
+id_talhao,ano,numero_cortes,tipo_ciclo,calcario_t_ha,gesso_t_ha,p2o5_kg_ha,vinaca_m3_ha,inseticida,operacoes_herbicida,irrigacao_mm_total,et0_soma_ciclo_mm,chuva_soma_ciclo_mm,tch_t_ha,atr_kg_t,umidade_pct,NDVI,NDWI,EVI,TCH_previsto
+T001,2026,0,planta,1.37,0.56,63,90,nao,1,108.71,63,90,80.1,126.9,80.2,0.2606414236188357,-0.2603586008686704,1.6741563936543002,61.03330999999836
+T002,2026,0,planta,0.82,0.27,64,90,nao,1,232.49,64,90,87.3,126.1,79.6,0.2606414236188357,-0.2603586008686704,1.6741563936543002,61.572819999998515

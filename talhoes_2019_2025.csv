@@ -1,0 +1,3 @@
+id_talhao,fazenda,setor,area_ha,espacamento_m,classe_solo,argila_pct,cad_mm,variedade_atual
+T001,Fazenda Campo Alegre,Setor 1,42.8,1.5,LV,33.5,110,CTC4
+T002,Fazenda Campo Alegre,Setor 1,38.7,1.5,PV,28.9,95,RB867515
